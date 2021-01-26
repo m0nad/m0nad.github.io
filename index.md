@@ -14,7 +14,7 @@ As a constant learner and explorer, I build, break or fix systems to acquire kno
 
 [Awesome Privilege Escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation.
 
-[ARP-Poison](https://github.com/m0nad/ARP-Poison) - ARP-Poison - also know as an - ARP Spooffing tool.
+[ARP-Poison](https://github.com/m0nad/ARP-Poison) - ARP-Poison - also know as an - ARP Spoofing tool.
 
 [Blog](https://m0nadlabs.wordpress.com/) - Blog with some technical stuff.
 
