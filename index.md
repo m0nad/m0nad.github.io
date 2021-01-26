@@ -12,11 +12,11 @@ As a constant learner and explorer, I build, break or fix systems to acquire kno
 
 [Msfsuggester](https://github.com/m0nad/msfsuggester) - Metasploit exploit suggester using OpenVAS XML output
 
-[Awesome Privilege Escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
+[Awesome Privilege Escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation.
 
-[ARP-Poison](https://github.com/m0nad/ARP-Poison) ARP-Poison - also know as an - ARP Spooffing tool
+[ARP-Poison](https://github.com/m0nad/ARP-Poison) ARP-Poison - also know as an - ARP Spooffing tool.
 
-[Blog](https://m0nadlabs.wordpress.com/) - Blog with some technical stuff
+[Blog](https://m0nadlabs.wordpress.com/) - Blog with some technical stuff.
 
 And more! Check my [Github](https://github.com/m0nad)
 
@@ -24,7 +24,7 @@ And more! Check my [Github](https://github.com/m0nad)
 
 [Nmap](https://seclists.org/nmap-dev/2014/q4/132) Patch to fix ftp-vsftpd-backdoor.nse script detection issue.
 
-[Linux Kernel](https://lkml.org/lkml/2013/10/20/30) - Commit to the Linux Kernel fixing a memory leakage in clk-sunxi.c
+[Linux Kernel](https://lkml.org/lkml/2013/10/20/30) - Commit to the Linux Kernel fixing a memory leakage in clk-sunxi.c.
 
 ### Presentations
 
@@ -32,7 +32,7 @@ And more! Check my [Github](https://github.com/m0nad)
 
 [NullByte Security Conference 2017](https://nullbyte-con.org/archive/2017/ninjas.html) - Diamorphine for today’s kernels. Presentation about how can we write arootkit for current linux kernels taking into account changes that happened in the kernel from the time of the LKM HACKING paper and the heroin.c code.
 
-[Alligator Conference 2014](https://www.alligatorcon.com/) - Diamorphine for today’s kernels. Presentation about how can we write a rootkitfor current linux kernels taking into account changes that happened in the kernel from the time of the LKMHACKING paper and the heroin.c code.
+[Alligator Conference 2014](https://www.alligatorcon.com/) - Diamorphine for today’s kernels. Presentation about how can we write a rootkitfor current linux kernels taking into account changes that happened in the kernel from the time of the LKM HACKING paper and the heroin.c code.
 
 [OWASP Floripa Day 2012](https://wiki.owasp.org/index.php/OWASP_Floripa_Day_2012) - Return-Oriented Programming. Presentation on the exploitation technique knownas Return Oriented Programming, useful to circumvent protections like NX bit or Data Execution Prevention.
 
@@ -40,7 +40,7 @@ And more! Check my [Github](https://github.com/m0nad)
 
 [First Tecland Meeting 2012](https://www.tecland.com.br/edicoes-anteriores/i-encontro-tecland-2/) - Buffer Overflows for dummies. Presentation about exploitation of buffer overflows from the basics.
 
-[First Tecland Meeting 2012](https://www.tecland.com.br/edicoes-anteriores/i-encontro-tecland-2/) - Building Shellcodes. Presentation on shellcode development, machine code used as the payload in the exploitation of a software vulnerability
+[First Tecland Meeting 2012](https://www.tecland.com.br/edicoes-anteriores/i-encontro-tecland-2/) - Building Shellcodes. Presentation on shellcode development, machine code used as the payload in the exploitation of a software vulnerability.
 
 ### Contact
 
