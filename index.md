@@ -32,7 +32,7 @@ And more! Check my [Github](https://github.com/m0nad)
 
 [Alligator Conference 2019](https://www.alligatorcon.com/) - cLoWn 3steRlionate: mak1ng m0ney fr0m li3s. A presentation about how to crack small RSA keys in 50's seconds.
 
-[NullByte Security Conference 2017](https://nullbyte-con.org/archive/2017/ninjas.html) - Diamorphine for today’s kernels.A presentation about how can we write a rootkit for current Linux kernels taking into account changes that happened in the kernel from the time of the LKM HACKING paper and the heroin.c code.
+[NullByte Security Conference 2017](https://nullbyte-con.org/archive/2017/ninjas.html) - Diamorphine for today’s kernels. A presentation about how can we write a rootkit for current Linux kernels taking into account changes that happened in the kernel from the time of the LKM HACKING paper and the heroin.c code.
 
 [Alligator Conference 2014](https://www.alligatorcon.com/) - Diamorphine for today’s kernels. A presentation about how can we write a rootkit for current Linux kernels taking into account changes that happened in the kernel from the time of the LKM HACKING paper and the heroin.c code.
 
