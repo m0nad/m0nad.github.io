@@ -14,7 +14,7 @@ As a constant learner and explorer, I build, break or fix systems to acquire kno
 
 [Awesome Privilege Escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation.
 
-[ARP-Poison](https://github.com/m0nad/ARP-Poison) ARP-Poison - also know as an - ARP Spooffing tool.
+[ARP-Poison](https://github.com/m0nad/ARP-Poison) - ARP-Poison - also know as an - ARP Spooffing tool.
 
 [Blog](https://m0nadlabs.wordpress.com/) - Blog with some technical stuff.
 
@@ -22,7 +22,7 @@ And more! Check my [Github](https://github.com/m0nad)
 
 ### Open Source Contributions
 
-[Nmap](https://seclists.org/nmap-dev/2014/q4/132) Patch to fix ftp-vsftpd-backdoor.nse script detection issue.
+[Nmap](https://seclists.org/nmap-dev/2014/q4/132) - Patch to fix ftp-vsftpd-backdoor.nse script detection issue.
 
 [Linux Kernel](https://lkml.org/lkml/2013/10/20/30) - Commit to the Linux Kernel fixing a memory leakage in clk-sunxi.c.
 
