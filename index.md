@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Welcome to m0nad's Page :)
 
-You can use the [editor on GitHub](https://github.com/m0nad/m0nad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+As a constant learner and explorer, I build, break or fix systems to acquire knowledge about them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Open Source Projects
 
-### Markdown
+[Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using nmap for scanning and correlating found CPEs with CVE.
 
-```markdown
-Syntax highlighted code block
+[DNS-Discovery](https://github.com/m0nad/DNS-Discovery) - Multithreaded subdomain bruteforcer meant to be used by pentesters during the initial stagesof testing. It uses a wordlist that concatenates with a given domain to search for subdomains.
 
-# Header 1
-## Header 2
-### Header 3
+[Msfsuggester](https://github.com/m0nad/msfsuggester) - Metasploit exploit suggester using OpenVAS XML output
 
-- Bulleted
-- List
+[Awesome Privilege Escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation
 
-1. Numbered
-2. List
+[ARP-Poison](https://github.com/m0nad/ARP-Poison) ARP-Poison - also know as an - ARP Spooffing tool
 
-**Bold** and _Italic_ and `Code` text
+[Blog](https://m0nadlabs.wordpress.com/) - Blog with some technical stuff
 
-[Link](url) and ![Image](src)
-```
+And more! Check my [Github](https://github.com/m0nad)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Open Source Contributions
 
-### Jekyll Themes
+[Nmap](https://seclists.org/nmap-dev/2014/q4/132) Patch to fix ftp-vsftpd-backdoor.nse script detection issue.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/m0nad/m0nad.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Linux Kernel](https://lkml.org/lkml/2013/10/20/30) - Commit to the Linux Kernel fixing a memory leakage in clk-sunxi.c
 
-### Support or Contact
+### Presentations
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[MBConf@home 2020](https://www.youtube.com/watch?v=Qf3MH0cIA0I) - Linux Local Privilege Escalation. Talk about the methodology, tips, and tricks on Linuxprivilege escalation.
+
+[NullByte Security Conference 2017](https://nullbyte-con.org/archive/2017/ninjas.html) - Diamorphine for today’s kernels. Presentation about how can we write arootkit for current linux kernels taking into account changes that happened in the kernel from the time of theLKM HACKING paper and the heroin.c code.
+
+[Alligator Conference 2014](https://www.alligatorcon.com/) - Diamorphine for today’s kernels. Presentation about how can we write a rootkitfor current linux kernels taking into account changes that happened in the kernel from the time of the LKMHACKING paper and the heroin.c code.
+
+[OWASP Floripa Day 2012](https://wiki.owasp.org/index.php/OWASP_Floripa_Day_2012) - Return-Oriented Programming. Presentation on the exploitation technique knownas Return Oriented Programming, useful to circumvent protections like NX bit or Data Execution Prevention.
+
+[Alligator Conference 2012](https://www.alligatorcon.com) - Return-Oriented Programming. Presentation on the exploitation technique known asReturn Oriented Programming, useful to circumvent protections like NX bit or Data Execution Prevention.
+
+[First Tecland Meeting 2012](https://www.tecland.com.br/edicoes-anteriores/i-encontro-tecland-2/) - Buffer Overflows for dummies. Presentation about exploitation of buffer overflows from the basics.
+
+[First Tecland Meeting 2012](https://www.tecland.com.br/edicoes-anteriores/i-encontro-tecland-2/) - Building Shellcodes. Presentation on shellcode development, machine code used as the payload in the exploitation of a software vulnerability
+
+### Contact
+
+[Twitter](https://twitter.com/m0nadlabs) - [Keybase](https://keybase.io/m0nad) - [GPG](https://keys.mailvelope.com/pks/lookup?op=get&search=victor.mello@tutanota.com)
