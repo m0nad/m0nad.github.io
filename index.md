@@ -28,21 +28,21 @@ And more! Check my [Github](https://github.com/m0nad)
 
 ### Presentations
 
-[MBConf@home 2020](https://www.youtube.com/watch?v=Qf3MH0cIA0I) - Linux Local Privilege Escalation. Talk about the methodology, tips, and tricks on Linux privilege escalation.
+[MBConf@home 2020](https://www.youtube.com/watch?v=Qf3MH0cIA0I) - Linux Local Privilege Escalation. Talk about the methodology, tips, and tricks on Linux privilege escalation[Slides](https://github.com/m0nad/Slides/raw/master/mbconf2020/privesc.odp).
 
-[Alligator Conference 2019](https://www.alligatorcon.com/) - cLoWn 3steRlionate: mak1ng m0ney fr0m li3s. A presentation about how to crack small RSA keys in 50's seconds.
+[Alligator Conference 2019](https://www.alligatorcon.com/) - cLoWn 3steRlionate: mak1ng m0ney fr0m li3s. A presentation about how to crack small RSA keys in 50's seconds[Slides](https://github.com/m0nad/Slides/raw/master/alli2019/cLoWn_3steRlionate.odp).
 
-[NullByte Security Conference 2017](https://nullbyte-con.org/archive/2017/ninjas.html) - Diamorphine for today’s kernels. A presentation about how can we write a rootkit for current Linux kernels taking into account changes that happened in the kernel from the time of the LKM HACKING paper and the heroin.c code.
+[NullByte Security Conference 2017](https://nullbyte-con.org/archive/2017/ninjas.html) - Diamorphine for today’s kernels. A presentation about how can we write a rootkit for current Linux kernels taking into account changes that happened in the kernel from the time of the LKM HACKING paper and the heroin.c code[Slides](https://github.com/m0nad/Slides/raw/master/nullbyte2017/diamorphine_nullbyte.odp).
 
-[Alligator Conference 2014](https://www.alligatorcon.com/) - Diamorphine for today’s kernels. A presentation about how can we write a rootkit for current Linux kernels taking into account changes that happened in the kernel from the time of the LKM HACKING paper and the heroin.c code.
+[Alligator Conference 2014](https://www.alligatorcon.com/) - Diamorphine for today’s kernels. A presentation about how can we write a rootkit for current Linux kernels taking into account changes that happened in the kernel from the time of the LKM HACKING paper and the heroin.c code[Slides](https://github.com/m0nad/Slides/raw/master/alli2014/diamorphine_slides.pdf).
 
-[OWASP Floripa Day 2012](https://wiki.owasp.org/index.php/OWASP_Floripa_Day_2012) - Return-Oriented Programming. Presentation on the exploitation technique known as Return Oriented Programming, useful to circumvent protections like NX bit or Data Execution Prevention.
+[OWASP Floripa Day 2012](https://wiki.owasp.org/index.php/OWASP_Floripa_Day_2012) - Return-Oriented Programming. Presentation on the exploitation technique known as Return Oriented Programming, useful to circumvent protections like NX bit or Data Execution Prevention[Slides](https://github.com/m0nad/Slides/raw/master/owasp2012/rop_owasp.odp).
 
-[Alligator Conference 2012](https://www.alligatorcon.com) - Return-Oriented Programming. Presentation on the exploitation technique known as Return Oriented Programming, useful to circumvent protections like NX bit or Data Execution Prevention.
+[Alligator Conference 2012](https://www.alligatorcon.com) - Return-Oriented Programming. Presentation on the exploitation technique known as Return Oriented Programming, useful to circumvent protections like NX bit or Data Execution Prevention[Slides](https://github.com/m0nad/Slides/raw/master/alli2012/rop_palestra.odp).
 
-[First Tecland Meeting 2012](https://www.tecland.com.br/edicoes-anteriores/i-encontro-tecland-2/) - Buffer Overflows for dummies. A presentation about the exploitation of buffer overflows from the basics.
+[First Tecland Meeting 2012](https://www.tecland.com.br/edicoes-anteriores/i-encontro-tecland-2/) - Buffer Overflows for dummies. A presentation about the exploitation of buffer overflows from the basics[Slides](https://github.com/m0nad/Slides/raw/master/tecland2012/buffer_overflows_para_iniciantes.pdf).
 
-[First Tecland Meeting 2012](https://www.tecland.com.br/edicoes-anteriores/i-encontro-tecland-2/) - Building Shellcodes. Presentation on shellcode development, machine code used as the payload in the exploitation of a software vulnerability.
+[First Tecland Meeting 2012](https://www.tecland.com.br/edicoes-anteriores/i-encontro-tecland-2/) - Building Shellcodes. Presentation on shellcode development, machine code used as the payload in the exploitation of a software vulnerability[Slides](https://github.com/m0nad/Slides/raw/master/tecland2012/construindo_shellcodes.pdf).
 
 ### Contact
 
