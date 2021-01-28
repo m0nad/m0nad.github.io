@@ -1,6 +1,6 @@
 ## Welcome to m0nad's Page :)
 
-As a constant learner and explorer, I build, break or fix systems to acquire better knowledge about computers and information security.
+As a constant learner and explorer, I build, break or fix systems to acquire better knowledge about computer and information security.
 
 ### Open Source Projects
 
