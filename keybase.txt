@@ -1,1 +1,56 @@
+==================================================================
+https://keybase.io/m0nad
+--------------------------------------------------------------------
 
+I hereby claim:
+
+  * I am an admin of https://m0nad.github.io
+  * I am m0nad (https://keybase.io/m0nad) on keybase.
+  * I have a public key ASALzdVXBh0VYhWDEdnYx-SVeTMbJ8zoP5XAtlZPTINQkQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f2016e005145b9a44fd8fefb31ba7293fef0546fac8ac01f155bbae5b01a42480a",
+      "host": "keybase.io",
+      "kid": "01200bcdd557061d1562158311d9d8c7e49579331b27cce83f95c0b6564f4c8350910a",
+      "uid": "3e6bcd59da9567ce8ee4413fa8aa2219",
+      "username": "m0nad"
+    },
+    "merkle_root": {
+      "ctime": 1612014140,
+      "hash": "be0c268383271c1b15225950136fc069eb81dd58e44b0b9147230faa4fa2564beb23fdfee3d3a6c94035c89e5ed11ac76d31fd85262d758ccb7bdf828c13b728",
+      "hash_meta": "4bf1269c97ac0763fc8ecb05597743853cca726916979bcc60a5c7d557eb7e55",
+      "seqno": 18956353
+    },
+    "service": {
+      "entropy": "lfWf21+K3XgZa5nnUOb3CY5p",
+      "hostname": "m0nad.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1612014202,
+  "expire_in": 504576000,
+  "prev": "73b1b801a34477e8d57d868dbdf1e2f8dcb05d658f32bede860ca63d306ed13d",
+  "seqno": 83,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgC83VVwYdFWIVgxHZ2MfklXkzGyfM6D+VwLZWT0yDUJEKp3BheWxvYWTESpcCU8Qgc7G4AaNEd+jVfYaNvfHi+NywXWWPMr7ehgymPTBu0T3EIGigX+/49I6Ss1w7RmeTiYoIlTcTT8MXASGDs6nfhsMPAgHCo3NpZ8RARFrMeNKTpmuwu4SQ4pw6BgmtN32h2PvlcEhU0i9jfVOaHtl9bJ4K+cVXCMOAQf4v+6b5XR7iOQsLA3BEwX1RD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGvIsgLzALRaVZepqIzieYYiLH3ae2yP/pyOBaY4T5bGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/m0nad
+
+==================================================================
