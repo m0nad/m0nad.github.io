@@ -6,11 +6,11 @@ As a constant learner and explorer, I build, break or fix systems to acquire bet
 
 [Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64).
 
-[HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVE.
+[HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.
 
 [DNS-Discovery](https://github.com/m0nad/DNS-Discovery) - Multithreaded subdomain brute-forcer meant to be used by pentesters during the initial stages of testing. It uses a wordlist that concatenates with a given domain to search for subdomains.
 
-[Msfsuggester](https://github.com/m0nad/msfsuggester) - Metasploit exploit suggester using OpenVAS XML output
+[Msfsuggester](https://github.com/m0nad/msfsuggester) - Metasploit exploit suggester using OpenVAS XML output.
 
 [Awesome Privilege Escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of awesome privilege escalation.
 
