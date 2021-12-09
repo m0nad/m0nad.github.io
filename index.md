@@ -26,6 +26,8 @@ And more! Check my [Github](https://github.com/m0nad)
 
 [Linux Kernel](https://lkml.org/lkml/2013/10/20/30) - Commit to the Linux Kernel fixing a memory leakage in clk-sunxi.c.
 
+[PCredz](https://github.com/lgandx/PCredz/pull/43) - Fix pcap type detection regex issue. [Patch](https://github.com/lgandx/PCredz/pull/44) to call the correct pcap parsing function.
+
 ### Presentations
 
 [MBConf@home 2020](https://www.youtube.com/watch?v=Qf3MH0cIA0I) - Linux Local Privilege Escalation. Talk about the methodology, tips, and tricks on Linux privilege escalation. [[Slides](https://github.com/m0nad/Slides/raw/master/mbconf2020/privesc.odp)]
