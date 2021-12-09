@@ -49,4 +49,4 @@ Check out how to [donate](./donate.html).
 
 ### Contact
 
-[Twitter](https://twitter.com/m0nadlabs) - [Keybase](https://keybase.io/m0nad) - [PGP](https://keys.mailvelope.com/pks/lookup?op=get&search=victor.mello@tutanota.com)
+[Session](./session.html) - [Twitter](https://twitter.com/m0nadlabs) - [Keybase](https://keybase.io/m0nad) - [PGP](https://keys.mailvelope.com/pks/lookup?op=get&search=victor.mello@tutanota.com)
