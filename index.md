@@ -51,4 +51,4 @@ Check out how to [donate](./donate.html).
 
 ### Contact
 
-[Mastodon](https://infosec.exchange/@m0nad) - [Twitter](https://twitter.com/m0nadlabs) - [Matrix](https://matrix.to/#/@m0nad:systemausfall.org) - [Session](./session.html) - [Keybase](https://keybase.io/m0nad) - [PGP](https://keys.mailvelope.com/pks/lookup?op=get&search=victor.mello@tutanota.com)
+[Linktr.ee](https://linktr.ee/m0nad)
